@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/bg.jpg");
+}
+
+nav {
+	margin-left: 1300px;
+	margin-top: 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+}
+
+#inloggen {
+	padding-right: 20px;
+	color: #fff;
+}
+
+#registreren {
+	color: #fff;
+}
+
+.logo {
+	margin-top: 250px;
+}
+
+#logo-mastermind {
+	width: 900px;
+}
+
+.loginform {
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 200px;
+	margin-right: 100px;
+}
+
+#username, #password {
+	color: #000 !important;
+}
+
+.nog-geen-account {
+	width: 100%;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	margin-left: 550px;
+	margin-top: 100px;
+}
+
+table#loginForm, table#registerForm {
+	padding-right: 1000px;
+}
+
+#gewonnen-tekst, #verloren-tekst {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	margin-top: 300px;
+	font-size: 50px;
+}
+
+#terugNaarSpel {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#usernamePlaceholder, #passwordPlaceholder {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: dimgrey;
+	zoom: 70%;
+}
+
+.logoGame {
+	margin-top: 50px;
+	padding-bottom: 100px;
+	color: #fff;
+}
+
+#logoGame {
+	width: 300px;
+}
+
+#blauw {
+	float: left;
+}
+
+#geel {
+	float: left;
+}
+
+#groen {
+	float: left;
+}
+
+#rood {
+	float: left;
+}
+
+/*#addColors {
+	padding-top: 100px !important;
+}*/
+
+[type=submit] {
+	-webkit-appearance: none !important;
+	background: none !important;
+}
+
+.boardBackground {
+	margin-right: 380px;
+}
+
+.displayName {
+	font-family: Calibri;
+}
